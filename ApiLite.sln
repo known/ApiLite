@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiLite", "ApiLite\ApiLite.csproj", "{83AA75B1-CF6A-4EBF-A544-8166EC68253D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiLite.Web", "ApiLite.Web\ApiLite.Web.csproj", "{E132FCE6-25AA-49BA-B3B5-487ACC1ACA10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83AA75B1-CF6A-4EBF-A544-8166EC68253D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83AA75B1-CF6A-4EBF-A544-8166EC68253D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83AA75B1-CF6A-4EBF-A544-8166EC68253D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83AA75B1-CF6A-4EBF-A544-8166EC68253D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E132FCE6-25AA-49BA-B3B5-487ACC1ACA10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E132FCE6-25AA-49BA-B3B5-487ACC1ACA10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E132FCE6-25AA-49BA-B3B5-487ACC1ACA10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E132FCE6-25AA-49BA-B3B5-487ACC1ACA10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2A2511E-D536-449C-9986-17710E24DCA0}
+	EndGlobalSection
+EndGlobal
